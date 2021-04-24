@@ -31,11 +31,11 @@ We have a folder for saving trained model weights, however, the model weights fi
 
 ## Code to drive gene, isoform, exon definition
 Please see:
-- [deeplearning_geneAnnotation.html]()
+- [deeplearning_geneAnnotation.html](https://github.com/KingSpencer/COPD-IsoMap/blob/main/deeplearning_geneAnnotation.html)
 
 ## Gene, isoform, exon list and corresponding mapping files
 We have save the list of genes, isoforms and exons in this GitHub repo, however, due to the size of the mapping files, we also save them on the external Google Drive.
-- [List of genes, isoforms, exons]()
+- [List of genes, isoforms, exons](https://github.com/KingSpencer/COPD-IsoMap/tree/main/mapping_data)
 - [Gene-to-exon mapping](https://drive.google.com/file/d/11qG9uAmLuXgL-x3HKR8jRXfUoPXLISkF/view?usp=sharing)
 - [Isoform-to-exon mapping](https://drive.google.com/file/d/1jzu9uXVIheKc69kqCp08Kx3AEXdOAWDd/view?usp=sharing)
 
