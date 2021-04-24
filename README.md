@@ -19,7 +19,7 @@ Predictive models based on gene expression are already a part of medical decisio
 
 ## Usage
 
-Please refer to [layer_search.bash](XXX) for the architecture search, and [run.bash](XXX) for running the main experiments. The bash script should be self-explanatory. A sample to run the experiment is shown below: 
+Please refer to [layer_search.bash](https://github.com/KingSpencer/COPD-IsoMap/blob/main/layer_search.bash) for the architecture search, and [run.bash](https://github.com/KingSpencer/COPD-IsoMap/blob/main/run.bash) for running the main experiments. The bash script should be self-explanatory. A sample to run the experiment is shown below: 
 ```bash
 chmod +x run.bash
 ./run.bash
