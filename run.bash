@@ -1,6 +1,6 @@
 echo "Doing comparision experiment!"
 exp='rebuttal'
-python Training_keras.py \
+python isomap_training.py \
     --data_dir "/home/zifeng/Research/COPD/data/data_last" \
     --exp_name $exp \
     --nodes "" \
