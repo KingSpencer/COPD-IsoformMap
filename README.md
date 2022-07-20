@@ -42,12 +42,15 @@ We have save the list of genes, isoforms and exons in this GitHub repo, however,
 ## Citing the paper
 This paper is still under review, please cite the bioRxiv version for now. Once the paper gets published, we will update the citation correspondingly.
 ```
-@article{wang2020improved,
-  title={Improved Prediction of Smoking Status via Isoform-Aware RNA-seq Deep Learning Models},
-  author={Wang, Zifeng and Masoomi, Aria and Xu, Zhonghui and Boueiz, Adel and Lee, Sool and Zhao, Tingting and Cho, Michael and Silverman, Edwin K and Hersh, Craig and Dy, Jennifer and Castaldi, Peter J},
-  journal={bioRxiv},
-  year={2020},
-  publisher={Cold Spring Harbor Laboratory}
+@article{wang2021improved,
+  title={Improved prediction of smoking status via isoform-aware RNA-seq deep learning models},
+  author={Wang, Zifeng and Masoomi, Aria and Xu, Zhonghui and Boueiz, Adel and Lee, Sool and Zhao, Tingting and Bowler, Russell and Cho, Michael and Silverman, Edwin K and Hersh, Craig and others},
+  journal={PLoS computational biology},
+  volume={17},
+  number={10},
+  pages={e1009433},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
 
